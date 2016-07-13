@@ -7,4 +7,4 @@ initial http://bit.do/Vector___Mosquito
 Still to come:
 • updated 3D model
 • Floor with baked AO
-• anited proboscis  
+• animated proboscis  
