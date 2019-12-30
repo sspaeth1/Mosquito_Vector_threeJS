@@ -2,9 +2,7 @@
 ThreeJS interactive for Mosquitoes as a Disease Vector
 
 
+
 initial http://bit.do/Vector___Mosquito
 
-Still to come:
-• updated 3D model
-• Floor with baked AO
-• animated proboscis  
+[file on sketchfab] (https://skfb.ly/6PERP "Mosquito | Vector of Disease")
